@@ -68,7 +68,7 @@ FLIPPY_KERNEL=(${STABLE_KERNEL[@]})
 KERNEL_AUTO_LATEST_VALUE="true"
 
 # Set the default OpenWrt IP address
-OPENWRT_IP_DEFAULT_VALUE="192.168.1.1"
+OPENWRT_IP_DEFAULT_VALUE="10.0.0.138"
 IP_REGEX="^((25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$"
 
 # Set the default packaging script
